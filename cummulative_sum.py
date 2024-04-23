@@ -1,5 +1,5 @@
-"""A function that receives a list of numbers as input and returns a list of numbers as the original list is 
-being cumulatively added."""
+"""A recursive function that receives a list of numbers as input and returns a list of numbers as the original 
+list is being cumulatively added."""
 
 
 def csum(lst, sum_lst=[]):
