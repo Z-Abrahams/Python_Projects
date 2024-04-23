@@ -1,4 +1,4 @@
-"""Function that received a word as input and prints it out in the form of an hourglass."""
+""" A function that receives a word as input and prints it out in the form of an hourglass."""
 
 
 def hglass(word, word_lst=[]):
