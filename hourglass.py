@@ -1,4 +1,4 @@
-""" A function that receives a word as input and prints it out in the form of an hourglass using a recursive function."""
+""" A recursive function that receives a word as input and prints it out in the form of an hourglass."""
 
 
 def hglass(word, word_lst=[]):
